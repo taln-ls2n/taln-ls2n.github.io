@@ -1,0 +1,32 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      
+      <div class="footer-col footer-col-1">
+        <p>
+          Nantes Université <br/>
+          2 Chemin de la Houssinière <br/>
+          BP 92208, 44322 Nantes Cedex 3 <br/>
+          <a href="https://goo.gl/maps/hdPnzjenrfKCUe9f8">Directions and Parking</a>
+        </p>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {% include social.html %}
+      </div>
+  
+
+      <div class="footer-col footer-col-3">
+        <p>Last modified: {% if page.date %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ site.time | date: "%B %-d, %Y" }}{% endif %}</p>
+      </div>
+      
+    </div>
+
+  </div>
+
+</footer>
