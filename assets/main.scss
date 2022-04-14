@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+	line-height: 1.5;
+}
+
+.site-header {
+	background: #212f3d;
+}
+
+.site-nav .page-link {
+	color: #eaecee;
+}
+
+.site-title, .site-title:visited {
+	color: #eaecee;
+}
+
+.post-content h2 {
+	border-bottom: 1px solid #AAA;
+	font-size: 28px;
+	color:  #566573 ;
+}
+
+.post-content h1 {
+	font-size: 32px;
+}
+
+ul li + li {
+	margin-top: .5em;
+}
