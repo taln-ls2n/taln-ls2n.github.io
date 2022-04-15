@@ -4,7 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
-# Test csv HAL v1
+# Test csv HAL v2
 
 <table>
   <thead>
@@ -24,3 +24,7 @@ permalink: /Publications/
     {% endfor %}
   </tbody>
 </table>
+
+{% for animal in site.data.animals %}
+- The {{ animal.name }} is a {{ animal.size }} animal.
+{% endfor %}
