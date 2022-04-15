@@ -5,7 +5,7 @@ permalink: /Publications/
 ---
 
 <table>
-  {% for row in site.data.authors %}
+  {% for row in site.data.hal.2022-04-15 %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
