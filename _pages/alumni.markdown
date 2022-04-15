@@ -6,6 +6,8 @@ permalink: /Alumni/
 
 ## Professors
 
+- Alexandre Dikovsky
+
 ## PhD Students
 
 - Ygor Gallina (2022) \\
