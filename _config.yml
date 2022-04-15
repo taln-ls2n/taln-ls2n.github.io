@@ -43,7 +43,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-include: ['_pages']
+include: ['_pages', '_data']
 
 header_pages:
   - _pages/people.markdown
