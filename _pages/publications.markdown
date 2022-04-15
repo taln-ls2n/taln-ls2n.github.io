@@ -4,18 +4,23 @@ title: Publications
 permalink: /Publications/
 ---
 
-<table>
-  {% for row in site.data.hal.2022-04-15 %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
+# Test csv HAL v1
 
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
+<table>
+  <thead>
+    <tr>
+    {% for header in site.data.hal.keys %}
+      <td>{{header}}</td>
+    {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in site.data.hal.content %}
+    <tr>
+    {% for column in row %}
+      <td>{{column}}</td>
+    {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
