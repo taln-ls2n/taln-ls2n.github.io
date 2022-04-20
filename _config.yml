@@ -31,8 +31,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
-  
- show_excerpts: true # set to true to show excerpts on the homepage
 
 # Exclude from processing.
 # The following items will not be processed, by default.
