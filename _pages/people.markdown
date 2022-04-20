@@ -6,16 +6,16 @@ permalink: /People/
 
 ## Professors
 
-- Denis Bechet
-- Florian Boudin
-- Béatrice Daille
-- Colin De La Higuera
-- Richard Dufour
-- Chantal Enguehard
-- Nicolas Hernandez
+- [Denis Bechet](https://pagesperso.ls2n.fr/~bechet-d/)
+- [Florian Boudin](https://boudinfl.github.io/)
+- [Béatrice Daille](http://bdaille.com/)
+- [Colin De La Higuera](http://pagesperso.lina.univ-nantes.fr/~cdlh/)
+- [Richard Dufour](https://cv.archives-ouvertes.fr/richard-dufour)
+- [Chantal Enguehard](http://pagesperso.ls2n.fr/~enguehard-c/)
+- [Nicolas Hernandez](https://nicolashernandez.github.io/)
 - Christine Jacquin
 - Laura Monceaux-Cachard
-- Emmanuel Morin
+- [Emmanuel Morin](https://pagesperso.ls2n.fr/~morin-e/index.htm)
 - Solen Quiniou
 
 ## PhD Students
