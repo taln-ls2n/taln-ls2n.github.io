@@ -49,4 +49,5 @@ header_pages:
   - _pages/people.markdown
   - _pages/publications.markdown
   - _pages/software.markdown
+  - _pages/projects.markdown
   - _pages/alumni.markdown
