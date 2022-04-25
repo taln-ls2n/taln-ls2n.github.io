@@ -4,6 +4,7 @@
 
 layout: home
 title: Welcome!
+list_title: News
 ---
 
 The TALN research group at <a href="https://www.ls2n.fr/">LS2N lab</a> is a team of faculty, postdocs and students who work together on algorithms that allow computers to process, generate, and understand human languages.

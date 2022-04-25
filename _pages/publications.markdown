@@ -14,7 +14,7 @@ permalink: /Publications/
   <li>{{ authors | join: ", " }}.
       {{ article["producedDate_s"]| slice: 0, 4 }}.
       <a href="{{paper_url}}">{{ title }}</a>.
-      <i>{{ article["journalTitle_s"]] }}{{ article["conferenceTitle_s"]] }}</i>.      
+      <i>{{ article["journalTitle_s"] }}{{ article["conferenceTitle_s"] }}</i>.      
   </li>
 
 {% endfor %}
