@@ -24,13 +24,13 @@ permalink: people.html
 ## PhD Students
 
 {: .people}
-- ![Avatar](/img/avatar.png) <br/> Adrien Bazoge
+- ![Avatar](/img/bazogue.jpg) <br/> Adrien Bazoge
 - ![Avatar](/img/avatar.png) <br/> Merieme Bouhandi
-- ![Avatar](/img/avatar.png) <br/> Victor Connes
+- ![Avatar](/img/connes.jpg) <br/> Victor Connes
 - ![Avatar](/img/avatar.png) <br/> Oumaima El Khettari
 - ![Avatar](/img/avatar.png) <br/> Kevin Espasa
 - ![Avatar](/img/avatar.png) <br/> Mael Houbre
-- ![Avatar](/img/avatar.png) <br/> Martin Laville
+- ![Avatar](/img/laville.jpg) <br/> Martin Laville
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
         
