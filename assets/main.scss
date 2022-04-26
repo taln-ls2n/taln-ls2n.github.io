@@ -19,16 +19,58 @@ body {
 	color: #eaecee;
 }
 
-.post-content h2 {
-	border-bottom: 1px solid #AAA;
+h1.post-title, h1.page-heading {
 	font-size: 28px;
-	color:  #566573 ;
 }
 
-.post-content h1 {
-	font-size: 32px;
+h2.post-list-heading {
+	font-size: 28px;
+}
+
+.post-content h2 {
+	border-bottom: 1px solid #AAA;
+	font-size: 20px;
+	color: #566573 ;
+}
+
+.post-content h3 {
+	font-size: 16px;
+	color: #566573;
 }
 
 ul li + li {
 	margin-top: .5em;
+}
+
+ul.people {
+  list-style: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+  text-align: center;
+	width: 100%;
+	display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  row-gap: 15px;
+
+}
+
+ul.people li {
+	vertical-align: top;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	padding: 5px;
+	border: 1px solid #AAA;    
+	background-color: #EEE;
+	border-radius: 5px;
+	justify-content: center;
+}
+
+ul.people li img {
+	border-radius: 50%;
+	width: 150px;
+	display: inline-block;
+	margin: 10px 0px;
 }
