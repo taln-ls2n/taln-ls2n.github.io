@@ -59,7 +59,7 @@ permalink: people.html
 ## PhD Students
 
 - Ygor Gallina (2022, [manuscript][gallina-2022])
-- Yingshu Liu (2020, [manuscript][yingshu-2020])
+- Jingshu Liu (2020, [manuscript][yingshu-2020])
 - Salima Mdhaffar (2020, [manuscript][mdhaffar-2020])
 - Basma El Amel Boussaha (2019, [manuscript][boussaha-2019])
 - Adeline Granet (2018, [manuscript][granet-2018])
@@ -83,7 +83,15 @@ permalink: people.html
 
 ## Masters Students
 
+- Esther Félix (2021)
+- Timothée Poulain (2020)
+- Solen Catella (2019)
+- Marie Humbert-Ropers (2019)
 - Rémi Bois (2014)
+
+## Staff
+
+- Walid Ben Romdhane (2020)
 
 
 [gallina-2022]: http://www.theses.fr/s210357 "Indexation de bout-en-bout dans les bibliothèques numériques scientifiques"
