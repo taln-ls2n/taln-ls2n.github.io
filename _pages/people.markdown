@@ -28,7 +28,6 @@ permalink: people.html
 - ![Avatar](/img/avatar.png) <br/> Merieme Bouhandi
 - ![Avatar](/img/connes.jpg) <br/> Victor Connes
 - ![Avatar](/img/avatar.png) <br/> Oumaima El Khettari
-- ![Avatar](/img/avatar.png) <br/> Kevin Espasa
 - ![Avatar](/img/avatar.png) <br/> Mael Houbre
 - ![Avatar](/img/laville.jpg) <br/> Martin Laville
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
@@ -85,6 +84,7 @@ permalink: people.html
 
 - Esther Félix (2021)
 - Timothée Poulain (2020)
+- Maelle Brassier (2019)
 - Solen Catella (2019)
 - Marie Humbert-Ropers (2019)
 - Rémi Bois (2014)

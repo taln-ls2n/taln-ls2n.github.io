@@ -19,6 +19,15 @@ body {
 	color: #eaecee;
 }
 
+.site-logo {
+	height: 64px;
+	margin: 5px 0px;
+}
+
+.site-nav {
+	line-height: 68px;
+}
+
 h1.post-title, h1.page-heading {
 	font-size: 28px;
 }
@@ -71,6 +80,7 @@ ul.people li {
 ul.people li img {
 	border-radius: 50%;
 	width: 150px;
+	height: 150px;
 	display: inline-block;
 	margin: 10px 0px;
 }
