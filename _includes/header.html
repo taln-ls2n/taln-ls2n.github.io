@@ -5,6 +5,8 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
+    <link rel="icon" type="image/png" href="https://taln-ls2n.github.io/img/logo_taln.png" />
+    
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <!--{{ site.title | escape }}-->
       <img class="site-logo" src="{{ "img/logo_taln.png" | relative_url }}" alt="{{ site.title | escape }}"/>
