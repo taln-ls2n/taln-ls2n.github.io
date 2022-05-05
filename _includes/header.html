@@ -7,7 +7,7 @@
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <!--{{ site.title | escape }}-->
-      <img class="site-logo" src="img/logo_taln.png" alt="{{ site.title | escape }}"/>
+      <img class="site-logo" src="{{ "img/logo_taln.png" | relative_url }}" alt="{{ site.title | escape }}"/>
     </a>
 
     {%- if titles_size > 0 -%}

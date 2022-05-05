@@ -28,7 +28,7 @@ permalink: people.html
 - ![Avatar](/img/avatar.png) <br/> Merieme Bouhandi
 - ![Avatar](/img/connes.jpg) <br/> Victor Connes
 - ![Avatar](/img/avatar.png) <br/> Oumaima El Khettari
-- ![Avatar](/img/avatar.png) <br/> Mael Houbre
+- ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
 - ![Avatar](/img/laville.jpg) <br/> Martin Laville
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
