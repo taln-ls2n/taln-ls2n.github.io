@@ -9,4 +9,4 @@ One paper has been accepted at the *[2nd Workshop on Tools and Resources for Peo
 - Nicolas Hernandez, Tristan Faine and Nabil Oulbaz.
   **Open corpora and toolkit for assessing text readability in French**.
 
-The paper will be soon available in our [publications](publications.html) page.
+The paper will be soon available in our [publications](/publications.html) page.

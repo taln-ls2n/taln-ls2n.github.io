@@ -17,4 +17,4 @@ Three papers have been accepted at the *[13th Conference on Language Resources a
   **Building Comparable Corpora for Assessing Multi-Word Term Alignment**.
 
 
-The papers will be soon available in our [publications](publications.html) page.
+The papers will be soon available in our [publications](/publications.html) page.

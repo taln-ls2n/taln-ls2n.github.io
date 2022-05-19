@@ -9,4 +9,4 @@ One paper has been accepted at the *[14th International Conference on Computer S
 - Esther Félix, Nicolas Hernandez and Issam Rebaï.
   **Exploring the Limits of Lexicon-based Natural Language Processing Techniques for Measuring Engagement and Predicting MOOC’s Certification**.
 
-The paper will be soon available in our [publications](publications.html) page.
+The paper will be soon available in our [publications](/publications.html) page.

@@ -14,4 +14,4 @@ Two papers have been accepted at the *[29e conférence sur le Traitement Automat
   **Remplacement de mentions pour l'adaptation d'un corpus de reconnaissance d'entités nommées à un domaine cible**.
 
 
-The papers will be soon available in our [publications](publications.html) page.
+The papers will be soon available in our [publications](/publications.html) page.
