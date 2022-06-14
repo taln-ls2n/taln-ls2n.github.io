@@ -1,5 +1,5 @@
 ---
-title: "Organization of a special session "NLP and health" @ JEP 2022"
+title: "Organization of a special session NLP and health @ JEP 2022"
 date: 2022-06-13
 layout: post
 ---
