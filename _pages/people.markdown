@@ -29,6 +29,7 @@ permalink: people.html
 - ![Avatar](/img/connes.jpg) <br/> Victor Connes
 - ![Avatar](/img/avatar.png) <br/> Oumaima El Khettari
 - ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
+- ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
 - ![Avatar](/img/laville.jpg) <br/> Martin Laville
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
@@ -36,7 +37,7 @@ permalink: people.html
 ## Masters Students
 
 {: .people}
-- ![Avatar](/img/avatar.png) <br/> Rima Boubekeur
+
 
 ## Staff
 
@@ -82,6 +83,7 @@ permalink: people.html
 
 ## Masters Students
 
+- Rima Boubekeur (2022)
 - Esther Félix (2021)
 - Timothée Poulain (2020)
 - Maelle Brassier (2019)
