@@ -9,6 +9,7 @@ on Health Text Mining and Information Analysis (LOUHI) 2022]([https://taln2022.u
 
 
 - Maël Houbre, Florian Boudin and Béatrice Daille.
+  **A Large-Scale Dataset for Biomedical Keyphrase Generation**.
 
 - Yanis Labrak, Adrien Bazoge, Richard Dufour, Béatrice Daille, Pierre-Antoine Gourraud, Emmanuel Morin and Mickaël Rouvier.
   **FrenchMedMCQA: A French Multiple-Choice Question Answering Dataset for Medical domain**.
