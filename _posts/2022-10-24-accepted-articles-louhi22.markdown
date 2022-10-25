@@ -5,7 +5,7 @@ layout: post
 ---
 
 Two papers have been accepted at the *[13th International Workshop 
-on Health Text Mining and Information Analysis (LOUHI) 2022]([https://louhi2022.fbk.eu/](https://louhi2022.fbk.eu/))*, an international workshop colocated with EMNLP 2022 that will be held in Abu Dhabi, United Arab Emirates (7 December).
+on Health Text Mining and Information Analysis (LOUHI) 2022](https://louhi2022.fbk.eu/)*, an international workshop colocated with EMNLP 2022 that will be held in Abu Dhabi, United Arab Emirates (7 December).
 
 
 - Maël Houbre, Florian Boudin and Béatrice Daille.
