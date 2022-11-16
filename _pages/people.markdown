@@ -6,8 +6,6 @@ permalink: people.html
 
 ## Professors
 
-
-
 {: .people}
 - ![Avatar](/img/bechet.jpg) <br/> [Denis Bechet](https://pagesperso.ls2n.fr/~bechet-d/)
 - ![Avatar](/img/boudin.jpg) <br/> [Florian Boudin](https://boudinfl.github.io/)
@@ -27,7 +25,7 @@ permalink: people.html
 - ![Avatar](/img/bazogue.jpg) <br/> Adrien Bazoge
 - ![Avatar](/img/avatar.png) <br/> Merieme Bouhandi
 - ![Avatar](/img/connes.jpg) <br/> Victor Connes
-- ![Avatar](/img/avatar.png) <br/> Oumaima El Khettari
+- ![Avatar](/img/el-khettari.jpg) <br/> Oumaima El Khettari
 - ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
 - ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
 - ![Avatar](/img/laville.jpg) <br/> Martin Laville
@@ -42,12 +40,7 @@ permalink: people.html
 ## Staff
 
 {: .people}
-- ![Avatar](/img/avatar.png) <br/> Corentin Follenfant      
-- ![Avatar](/img/avatar.png) <br/> Solenn Gillouard
-- ![Avatar](/img/avatar.png) <br/> Jotsna Iyer 
-- ![Avatar](/img/avatar.png) <br/> Bastien Masse 
-- ![Avatar](/img/avatar.png) <br/> Melanie Pauly Harquevaux
-- ![Avatar](/img/avatar.png) <br/> Andreane Roques
+- ![Avatar](/img/avatar.png) <br/> Ygor Gallina      
 
 
 # Alumni
