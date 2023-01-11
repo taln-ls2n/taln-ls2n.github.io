@@ -6,6 +6,9 @@ permalink: projects.html
 
 ## Ongoing projects
 
+- [Project ANR Lexhnology](https://lexhnology.hypotheses.org/) (2022-2026) \\
+    Joint linguistic and NLP discourse structure modeling of legal texts for language pedagogy
+
 - Project ANR PREDHIC (2021-2024) \\
     Traitement automatique des langues pour la PRÉdiction du risque de Décès ou de réHospitalisation des patients Insuffisants Cardiaques
 
