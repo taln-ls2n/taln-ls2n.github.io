@@ -1,6 +1,6 @@
 ---
 title: "Victor Connes' Ph.D. defense"
-date: 2023-17-01
+date: 2023-01-17
 layout: post
 ---
 
