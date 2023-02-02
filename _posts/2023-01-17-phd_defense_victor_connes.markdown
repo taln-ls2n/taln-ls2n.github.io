@@ -1,5 +1,5 @@
 ---
-title: "Victor Connes' Ph.D. defense"
+title: "Ph.D. defense of Victor Connes"
 date: 2023-01-17
 layout: post
 ---
