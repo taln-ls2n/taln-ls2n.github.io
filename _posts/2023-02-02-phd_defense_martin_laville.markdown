@@ -4,7 +4,7 @@ date: 2023-02-02
 layout: post
 ---
 
-Martin Laville successfully defended his Ph.D. thesis on January 5, 2023.
+Martin Laville successfully defended his Ph.D. thesis on February 1, 2023.
 
 His work concerned the evaluation in the extraction of bilingual lexicons from comparable corpora.
 
