@@ -1,5 +1,5 @@
 ---
-title: "PhD position in discourse modelling and argumentative structure analysis of legal texts"
+title: "PhD position in argumentative structure analysis of legal texts"
 date: 2023-04-14
 layout: post
 ---
