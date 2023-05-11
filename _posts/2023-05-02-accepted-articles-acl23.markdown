@@ -13,6 +13,6 @@ Two papers have been accepted at the *[61st Annual Meeting of the Association fo
 
 - Arthur Amalvy, Vincent Labatut, Richard Dufour
   **The Role of Global and Local Context in Named Entity Recognition**.<br />
-  Paper: []()
+  Paper: [https://arxiv.org/abs/2305.03132](https://arxiv.org/abs/2305.03132)
 
 The paper will be soon available in our [publications](/publications.html) page.
