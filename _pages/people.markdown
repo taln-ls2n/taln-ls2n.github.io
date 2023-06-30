@@ -23,14 +23,13 @@ permalink: people.html
 
 {: .people}
 - ![Avatar](/img/bazogue.jpg) <br/> Adrien Bazoge
-- ![Avatar](/img/avatar.png) <br/> Merieme Bouhandi
-- ![Avatar](/img/connes.jpg) <br/> Victor Connes
 - ![Avatar](/img/el-khettari.jpg) <br/> Oumaima El Khettari
 - ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
 - ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
-- ![Avatar](/img/laville.jpg) <br/> Martin Laville
+- ![Avatar](/img/avatar.jpg) <br/> Xavier Pillet
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
+- ![Avatar](/img/avatar.png) <br/> Thomas Sebbag
         
 ## Masters Students
 
@@ -51,6 +50,9 @@ permalink: people.html
 
 ## PhD Students
 
+- Martin Laville (2023, [manuscript][laville-2023])
+- Victor Connes (2023, [manuscript][connes-2023])
+- Mérième Bouhandi (2023, [manuscript][bouhandi-2023])
 - Ygor Gallina (2022, [manuscript][gallina-2022])
 - Jingshu Liu (2020, [manuscript][yingshu-2020])
 - Salima Mdhaffar (2020, [manuscript][mdhaffar-2020])
@@ -88,7 +90,9 @@ permalink: people.html
 
 - Walid Ben Romdhane (2020)
 
-
+[laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
+[connes-2023]: http://www.theses.fr/2023NANU4006 "Recommandation de Ressources Éducatives Libres dans le projet X5GON"
+[bouhandi-2023]: http://www.theses.fr/s211069 "Amélioration endogène des modèles de langue - Application aux domaines de spécialité"
 [gallina-2022]: http://www.theses.fr/s210357 "Indexation de bout-en-bout dans les bibliothèques numériques scientifiques"
 [mdhaffar-2020]: https://hal.archives-ouvertes.fr/tel-02902466/document "Reconnaissance de la parole dans un contexte de cours magistraux : évaluation, avancées et enrichissement"
 [yingshu-2020]: https://hal.archives-ouvertes.fr/tel-02938554/document "Unsupervised cross-lingual representation modeling for variable length phrases"
