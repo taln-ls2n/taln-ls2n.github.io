@@ -11,5 +11,7 @@ The TALN research group at <a href="https://www.ls2n.fr/">LS2N lab</a> is a team
 
 Our research interests are in the areas of natural language processing (NLP) and information retrieval (IR) with applications including health text mining, educational resources and scientific document analysis.
 
-![TALN research group](img/taln-2022.jpeg){: #img-team}
+![TALN research group](img/taln-2023.jpeg){: #img-team}
+
+See the TALN research group in [2022](img/taln-2022.jpeg).
 
