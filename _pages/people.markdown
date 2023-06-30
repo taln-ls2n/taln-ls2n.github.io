@@ -29,7 +29,7 @@ permalink: people.html
 - ![Avatar](/img/pillet.jpg) <br/> Xavier Pillet
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
-- ![Avatar](/img/avatar.png) <br/> Thomas Sebbag
+- ![Avatar](/img/sebbag.jpg) <br/> Thomas Sebbag
         
 ## Masters Students
 
