@@ -26,7 +26,7 @@ permalink: people.html
 - ![Avatar](/img/el-khettari.jpg) <br/> Oumaima El Khettari
 - ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
 - ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
-- ![Avatar](/img/avatar.jpg) <br/> Xavier Pillet
+- ![Avatar](/img/avatar.png) <br/> Xavier Pillet
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
 - ![Avatar](/img/avatar.png) <br/> Thomas Sebbag
@@ -35,6 +35,7 @@ permalink: people.html
 
 {: .people}
 
+- ![Avatar](/img/belfathi.jpg) <br/> Anas Belfathi
 
 ## Staff
 
