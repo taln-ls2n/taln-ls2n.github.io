@@ -1,3 +1,14 @@
-https://hal.archives-ouvertes.fr/LS2N-TALN/search/advanced-export/uri/%3FomitHeader%3Dtrue%26wt%3Dphps%26q%3DcollCode_s%253A%2528LS2N-TALN%2529%26sort%3DproducedDate_tdate%2Bdesc%26fq%3DcollCode_s%253ALS2N-TALN%26defType%3Dedismax%26rows%3D1000
+Lancez la commande suivante
+```bash
+curl "https://api.archives-ouvertes.fr/search/LS2N-TALN/?q=*&rows=1000&wt=csv&fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,journalTitle_s,conferenceTitle_s,country_s&sort=producedDate_s%20desc" > hal.csv
+```
+ou bien naviguez à l'adresse et remplacez `hal.csv` par le fichier obtenu.
 
-https://hal.archives-ouvertes.fr/LS2N-TALN/search/index/?qa[collCode_s][]=LS2N-TALN&qa[text][]
+Documentation de l'API : https://api.archives-ouvertes.fr/docs/search
+
+Cette requête:
+- recherche tous documents `q=*`
+- renvoie 1000 documents (a changer lorsqu'il y en aura trop ;) `rows=1000`
+- retourne un csv `wt=csv`
+- renvoie les champs utiles (voir `_pages/publications.markdown`) `fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,journalTitle_s,conferenceTitle_s`
+- tri les résultats par date de publication `sort=producedDate_s%20desc`
