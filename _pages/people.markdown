@@ -23,6 +23,7 @@ permalink: people.html
 
 {: .people}
 - ![Avatar](/img/bazogue.jpg) <br/> Adrien Bazoge
+- ![Avatar](/img/belfathi.jpg) <br/> Anas Belfathi
 - ![Avatar](/img/el-khettari.jpg) <br/> Oumaima El Khettari
 - ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
 - ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
@@ -30,17 +31,19 @@ permalink: people.html
 - ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
 - ![Avatar](/img/avatar.png) <br/> Thibault Roux
 - ![Avatar](/img/sebbag.jpg) <br/> Thomas Sebbag
-        
+
+<!--
 ## Masters Students
 
 {: .people}
 
-- ![Avatar](/img/belfathi.jpg) <br/> Anas Belfathi
+-->
+
 
 ## Staff
 
 {: .people}
-- ![Avatar](/img/avatar.png) <br/> Ygor Gallina      
+- ![Avatar](/img/gallina.jpg) <br/> Ygor Gallina
 
 
 # Alumni
