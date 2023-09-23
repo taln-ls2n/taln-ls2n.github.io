@@ -31,7 +31,7 @@ permalink: people.html
 - ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
 - ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
 - ![Avatar](/img/avatar.png) <br/> [Mohamed Reda Marzouk](https://www.theses.fr/s258362)
-- ![Avatar](/img/roux.png) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
+- ![Avatar](/img/roux.jpg) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
 - ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
 
 <!--
