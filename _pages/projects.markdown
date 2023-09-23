@@ -6,17 +6,20 @@ permalink: projects.html
 
 ## Ongoing projects
 
+- [Project ANR MALADES](https://www.univ-nantes.fr/decouvrir-luniversite/vision-strategie-et-grands-projets/malades-adaptable-and-sovereign-large-language-models-for-the-french-medical-domain) (2023-2027) \\
+    Adaptable and Sovereign Large Language Models for the French Medical Domain
+  
 - [Project PPR Océan et climat](https://www.ocean-climat.fr/) (2022-2028) \\
     FUTURE-OBS - Augmented Observatory for Coastal Socio-Ecosystems
 
 - [Project AID/CNRS NaviTerm](https://cnrs-naviterm.github.io/) (2022-2026) \\
-    Navigation terminologique pour une montée en compétence rapide et personnalisée sur un domaine de recherche
+    Terminological navigation for rapid and personalized skill development in a scientific domain
 
 - [Project ANR Lexhnology](https://lexhnology.hypotheses.org/) (2022-2026) \\
     Joint linguistic and NLP discourse structure modeling of legal texts for language pedagogy
 
 - [Project ANR PREDHIC](https://anr.fr/Projet-ANR-21-CE23-0039) (2021-2024) \\
-    Traitement automatique des langues pour la PRÉdiction du risque de Décès ou de réHospitalisation des patients Insuffisants Cardiaques
+    Predicting heart failure readmission and mortality using natural language processing
 
 - [Project ANR DIETS](https://anr-diets.univ-avignon.fr/) (2021-2024) \\
     Diagnosis/evaluation of end-to-end automatic speech recognition (ASR) systems
