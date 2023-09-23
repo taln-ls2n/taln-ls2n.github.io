@@ -1,6 +1,6 @@
 ---
 title: "HDR defense of Florian Boudin"
-date: 2023-02-15
+date: 2023-06-20
 layout: post
 ---
 
