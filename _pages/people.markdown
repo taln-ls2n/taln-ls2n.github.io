@@ -22,15 +22,17 @@ permalink: people.html
 ## PhD Students
 
 {: .people}
-- ![Avatar](/img/bazogue.jpg) <br/> Adrien Bazoge
+- ![Avatar](/img/amalvy.jpg) <br/> [Arthur Amalvy](https://cv.hal.science/aamalvy)
+- ![Avatar](/img/bazogue.jpg) <br/> [Adrien Bazoge](https://www.theses.fr/s258477)
 - ![Avatar](/img/belfathi.jpg) <br/> Anas Belfathi
-- ![Avatar](/img/el-khettari.jpg) <br/> Oumaima El Khettari
-- ![Avatar](/img/houbre.jpg) <br/> Mael Houbre
-- ![Avatar](/img/jourdan.jpg) <br/> Léane Jourdan
-- ![Avatar](/img/pillet.jpg) <br/> Xavier Pillet
-- ![Avatar](/img/avatar.png) <br/> Mohamed Reda Marzouk
-- ![Avatar](/img/avatar.png) <br/> Thibault Roux
-- ![Avatar](/img/sebbag.jpg) <br/> Thomas Sebbag
+- ![Avatar](/img/el-khettari.jpg) <br/> [Oumaima El Khettari](https://www.theses.fr/s321695)
+- ![Avatar](/img/houbre.jpg) <br/> [Mael Houbre](https://github.com/MHoubre)
+- ![Avatar](/img/jourdan.jpg) <br/> [Léane Jourdan](https://cv.hal.science/leane-jourdan)
+- ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
+- ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
+- ![Avatar](/img/avatar.png) <br/> [Mohamed Reda Marzouk](https://www.theses.fr/s258362)
+- ![Avatar](/img/roux.png) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
+- ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
 
 <!--
 ## Masters Students
