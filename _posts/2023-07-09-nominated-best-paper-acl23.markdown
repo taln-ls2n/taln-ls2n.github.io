@@ -4,7 +4,7 @@ date: 2023-07-09
 layout: post
 ---
 
-The paper presenting DrBERT at the *[61st Annual Meeting of the Association for Computational Linguistics (ACL)](https://2023.aclweb.org/)* main conference in Toronto, Canada (9-14 July 2023) has been nominated for [best paper award](https://2023.aclweb.org/program/best_papers/) and received an honorable mention.
+The paper on DrBERT open biomedical language model at the *[61st Annual Meeting of the Association for Computational Linguistics (ACL)](https://2023.aclweb.org/)* main conference in Toronto, Canada (9-14 July 2023) has been nominated for [best paper award](https://2023.aclweb.org/program/best_papers/) and received an honorable mention.
 
 Congrats to all authors!
 
