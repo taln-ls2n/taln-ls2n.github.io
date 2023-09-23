@@ -1,5 +1,5 @@
 ---
-title: "DrBERT nominated for best paper award @ ACL'23"
+title: "DrBERT nominated for best paper award @ ACL 2023"
 date: 2023-07-09
 layout: post
 ---
