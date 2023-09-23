@@ -82,6 +82,7 @@ permalink: people.html
 
 ## Masters Students
 
+- Mamadou Diallo (2023)
 - Rima Boubekeur (2022)
 - Esther Félix (2021)
 - Timothée Poulain (2020)
