@@ -14,10 +14,10 @@ permalink: people.html
 - ![Avatar](/img/dufour.jpg) <br/> [Richard Dufour](https://cv.archives-ouvertes.fr/richard-dufour)
 - ![Avatar](/img/enguehard.jpg) <br/> [Chantal Enguehard](http://pagesperso.ls2n.fr/~enguehard-c/)
 - ![Avatar](/img/hernandez.jpg) <br/> [Nicolas Hernandez](https://nicolashernandez.github.io/)
-- ![Avatar](/img/avatar.png) <br/> [Christine Jacquin] (https://www.univ-nantes.fr/christine-jacquin)
-- ![Avatar](/img/avatar.png) <br/> [Laura Monceaux-Cachard] (https://www.univ-nantes.fr/laura-monceaux-cachard)
+- ![Avatar](/img/avatar.png) <br/> [Christine Jacquin](https://www.univ-nantes.fr/christine-jacquin)
+- ![Avatar](/img/avatar.png) <br/> [Laura Monceaux-Cachard](https://www.univ-nantes.fr/laura-monceaux-cachard)
 - ![Avatar](/img/morin.jpg) <br/> [Emmanuel Morin](https://pagesperso.ls2n.fr/~morin-e/index.htm)
-- ![Avatar](/img/quiniou.jpg) <br/> [Solen Quiniou] (https://www.ls2n.fr/annuaire/Solen%20QUINIOU/)
+- ![Avatar](/img/quiniou.jpg) <br/> [Solen Quiniou](https://www.ls2n.fr/annuaire/Solen%20QUINIOU/)
 
 ## PhD Students
 
