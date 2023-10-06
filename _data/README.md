@@ -1,6 +1,6 @@
 Lancez la commande suivante
 ```bash
-curl "https://api.archives-ouvertes.fr/search/LS2N-TALN/?q=*&rows=1000&wt=csv&fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,journalTitle_s,conferenceTitle_s,country_s&sort=producedDate_s%20desc" > hal.csv
+curl "https://api.archives-ouvertes.fr/search/LS2N-TALN/?q=*&rows=1000&wt=csv&fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,producedDateY_i,journalTitle_s,conferenceTitle_s,country_s&sort=producedDate_s%20desc" > hal2.csv
 ```
 ou bien naviguez à l'adresse et remplacez `hal.csv` par le fichier obtenu.
 
