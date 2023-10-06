@@ -24,7 +24,8 @@ permalink: people.html
 {: .people}
 - ![Avatar](/img/amalvy.jpg) <br/> [Arthur Amalvy](https://cv.hal.science/aamalvy)
 - ![Avatar](/img/bazogue.jpg) <br/> [Adrien Bazoge](https://www.theses.fr/s258477)
-- ![Avatar](/img/belfathi.jpg) <br/> Anas Belfathi
+- ![Avatar](/img/avatar.png) <br/> [Julien Aubert-Béduchaud](https://www.linkedin.com/in/julienaubertbeduchaud/)
+- ![Avatar](/img/belfathi.jpg) <br/> [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
 - ![Avatar](/img/el-khettari.jpg) <br/> [Oumaima El Khettari](https://www.theses.fr/s321695)
 - ![Avatar](/img/houbre.jpg) <br/> [Mael Houbre](https://github.com/MHoubre)
 - ![Avatar](/img/jourdan.jpg) <br/> [Léane Jourdan](https://cv.hal.science/leane-jourdan)
