@@ -1,6 +1,6 @@
 Lancez la commande suivante
 ```bash
-curl "https://api.archives-ouvertes.fr/search/LS2N-TALN/?q=*&rows=1000&wt=csv&fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,producedDateY_i,journalTitle_s,conferenceTitle_s,country_s&sort=producedDate_s%20desc" > hal.csv
+curl "https://api.archives-ouvertes.fr/search/LS2N-TALN/?q=*&rows=1000&wt=csv&fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,producedDateY_i,journalTitle_s,conferenceTitle_s,country_s&sort=producedDate_s%20desc,halId_s%20desc" > hal.csv
 ```
 ou bien naviguez à l'adresse et remplacez `hal.csv` par le fichier obtenu.
 
@@ -11,4 +11,4 @@ Cette requête:
 - renvoie 1000 documents (a changer lorsqu'il y en aura trop ;) `rows=1000`
 - retourne un csv `wt=csv`
 - renvoie les champs utiles (voir `_pages/publications.markdown`) `fl=halId_s,uri_s,title_s,authFullName_s,producedDate_s,journalTitle_s,conferenceTitle_s`
-- tri les résultats par date de publication `sort=producedDate_s%20desc`
+- tri les résultats par date de publication et hal_id `sort=producedDate_s desc,halId_s desc`
