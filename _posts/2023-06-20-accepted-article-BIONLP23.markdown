@@ -9,4 +9,4 @@ One paper has been accepted at the *[22nd BioNLP workshop](https://aclweb.org/ac
 - Oumaima El Khettari, Solen Quiniou, Samuel Chaffron.<br />
 *[**Building a Corpus for Biomedical Relation Extraction of Species Mentions**](https://arxiv.org/abs/2306.08403)*.
 
-The papers will be soon available in our [publications](/publications.html) page.
+The paper will be soon available in our [publications](/publications.html) page.
