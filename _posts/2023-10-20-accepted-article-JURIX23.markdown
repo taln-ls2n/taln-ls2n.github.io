@@ -1,6 +1,6 @@
 ---
 title: "One paper accepted at JURIX 2023"
-date: 2023-06-20
+date: 2023-10-20
 layout: post
 ---
 
