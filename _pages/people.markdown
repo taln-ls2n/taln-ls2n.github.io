@@ -23,7 +23,6 @@ permalink: people.html
 
 {: .people}
 - ![Avatar](/img/amalvy.jpg) <br/> [Arthur Amalvy](https://cv.hal.science/aamalvy)
-- ![Avatar](/img/bazogue.jpg) <br/> [Adrien Bazoge](https://www.theses.fr/s258477)
 - ![Avatar](/img/avatar.png) <br/> [Julien Aubert-Béduchaud](https://www.linkedin.com/in/julienaubertbeduchaud/)
 - ![Avatar](/img/belfathi.jpg) <br/> [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
 - ![Avatar](/img/el-khettari.jpg) <br/> [Oumaima El Khettari](https://www.theses.fr/s321695)
@@ -57,6 +56,7 @@ permalink: people.html
 
 ## PhD Students
 
+- Adrien Bazoge (2024)
 - Martin Laville (2023, [manuscript][laville-2023])
 - Victor Connes (2023, [manuscript][connes-2023])
 - Mérième Bouhandi (2023, [manuscript][bouhandi-2023])
