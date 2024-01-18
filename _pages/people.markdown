@@ -56,7 +56,7 @@ permalink: people.html
 
 ## PhD Students
 
-- Adrien Bazoge (2024)
+- Adrien Bazoge (2024, [manuscrit][bazoge-2024])
 - Martin Laville (2023, [manuscript][laville-2023])
 - Victor Connes (2023, [manuscript][connes-2023])
 - Mérième Bouhandi (2023, [manuscript][bouhandi-2023])
@@ -98,6 +98,7 @@ permalink: people.html
 
 - Walid Ben Romdhane (2020)
 
+[bazoge-2024]: https://www.theses.fr/s258477 "TALMed : Traitement Automatique de la Langue Médicale"
 [laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
 [connes-2023]: http://www.theses.fr/2023NANU4006 "Recommandation de Ressources Éducatives Libres dans le projet X5GON"
 [bouhandi-2023]: http://www.theses.fr/s211069 "Amélioration endogène des modèles de langue - Application aux domaines de spécialité"
