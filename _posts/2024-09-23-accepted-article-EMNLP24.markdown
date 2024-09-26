@@ -6,7 +6,7 @@ layout: post
 
 One paper has been accepted at the *[The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/)* findings that will be held in Miami, Florida, USA (12-16 November).
 
-A joint work between the LS2N (Nantes University), le CNRS The Japanese-French Laboratory for Informatics (JFLI) and the NII (Japan).
+A joint work between the CNRS The Japanese-French Laboratory for Informatics (JFLI) and the NII (Japan).
 
 - Florian Boudin, Akiko Aizawa.<br />
 *[**Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts**](https://arxiv.org/abs/2409.13266)*.
