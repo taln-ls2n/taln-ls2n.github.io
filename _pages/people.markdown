@@ -38,6 +38,7 @@ permalink: people.html
 
 ## External collaborator
 
+{: .people}
 - ![Avatar](/img/bazogue.jpg) <br/> [Adrien Bazoge](https://cv.hal.science/adrien-bazoge)
 
 <!--
