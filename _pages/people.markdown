@@ -97,8 +97,7 @@ permalink: people.html
 - Nalin Srun (2024)
 - Malek Yaich (2024)
 - Hugo Leguillier (2024)
-- Samba Fall (2023-2024)
-- Daniel Batteux (2023-2024)
+- Daniel Batteux (2024)
 - Mamadou Diallo (2023)
 - Rima Boubekeur (2022)
 - Esther Félix (2021)
@@ -110,8 +109,8 @@ permalink: people.html
 
 ## Staff
 
-- Walid Ben Romdhane (2020)
 - Ygor Gallina (2024)
+- Walid Ben Romdhane (2020)
 
 [bazoge-2024]: https://www.theses.fr/s258477 "TALMed : Traitement Automatique de la Langue Médicale"
 [laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
