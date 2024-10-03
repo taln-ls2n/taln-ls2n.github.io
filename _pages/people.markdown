@@ -24,28 +24,34 @@ permalink: people.html
 {: .people}
 - ![Avatar](/img/amalvy.jpg) <br/> [Arthur Amalvy](https://cv.hal.science/aamalvy)
 - ![Avatar](/img/avatar.png) <br/> [Julien Aubert-Béduchaud](https://www.linkedin.com/in/julienaubertbeduchaud/)
+- ![Avatar](/img/avatar.png) <br/> [Ikram Belmadani](https://www.linkedin.com/in/ikram-belmadani-41556b235/)
 - ![Avatar](/img/belfathi.jpg) <br/> [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
 - ![Avatar](/img/el-khettari.jpg) <br/> [Oumaima El Khettari](https://www.theses.fr/s321695)
 - ![Avatar](/img/houbre.jpg) <br/> [Mael Houbre](https://github.com/MHoubre)
 - ![Avatar](/img/jourdan.jpg) <br/> [Léane Jourdan](https://cv.hal.science/leane-jourdan)
 - ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
+- ![Avatar](/img/avatar.png) <br/> [Trung Hieu Ngo]()
 - ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
 - ![Avatar](/img/avatar.png) <br/> [Mohamed Reda Marzouk](https://www.theses.fr/s258362)
 - ![Avatar](/img/roux.jpg) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
 - ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
+
+## External collaborator
+
+- ![Avatar](/img/bazogue.jpg) <br/> [Adrien Bazoge](https://cv.hal.science/adrien-bazoge)
 
 <!--
 ## Masters Students
 
 {: .people}
 
--->
+
 
 
 ## Staff
 
 {: .people}
-- ![Avatar](/img/gallina.jpg) <br/> Ygor Gallina
+- ![Avatar](/img/gallina.jpg) <br/> Ygor Gallina-->
 
 
 # Alumni
@@ -85,6 +91,13 @@ permalink: people.html
 
 ## Masters Students
 
+- Mohammed Hmitouch (2024)
+- Laurine Menneron (2024)
+- Nalin Srun (2024)
+- Malek Yaich (2024)
+- Hugo Leguillier (2024)
+- Samba Fall (2023-2024)
+- Daniel Batteux (2023-2024)
 - Mamadou Diallo (2023)
 - Rima Boubekeur (2022)
 - Esther Félix (2021)
@@ -97,6 +110,7 @@ permalink: people.html
 ## Staff
 
 - Walid Ben Romdhane (2020)
+- Ygor Gallina (2024)
 
 [bazoge-2024]: https://www.theses.fr/s258477 "TALMed : Traitement Automatique de la Langue Médicale"
 [laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
