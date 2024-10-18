@@ -32,7 +32,6 @@ permalink: people.html
 - ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
 - ![Avatar](/img/avatar.png) <br/> [Trung Hieu Ngo]()
 - ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
-- ![Avatar](/img/avatar.png) <br/> [Mohamed Reda Marzouk](https://www.theses.fr/s258362)
 - ![Avatar](/img/roux.jpg) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
 - ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
 
@@ -63,6 +62,7 @@ permalink: people.html
 
 ## PhD Students
 
+- Mohamed Reda Marzouk (2024, [manuscrit][marzouk-2024])
 - Adrien Bazoge (2024, [manuscrit][bazoge-2024])
 - Martin Laville (2023, [manuscript][laville-2023])
 - Victor Connes (2023, [manuscript][connes-2023])
@@ -112,6 +112,7 @@ permalink: people.html
 - Ygor Gallina (2024)
 - Walid Ben Romdhane (2020)
 
+[marzouk-2024]: https://theses.fr/s391018 "Intelligibilité des réseaux de neurones récurrents par interprétation avec des machines à états finis"
 [bazoge-2024]: https://www.theses.fr/s258477 "TALMed : Traitement Automatique de la Langue Médicale"
 [laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
 [connes-2023]: http://www.theses.fr/2023NANU4006 "Recommandation de Ressources Éducatives Libres dans le projet X5GON"
