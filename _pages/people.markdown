@@ -30,7 +30,7 @@ permalink: people.html
 - ![Avatar](/img/houbre.jpg) <br/> [Mael Houbre](https://github.com/MHoubre)
 - ![Avatar](/img/jourdan.jpg) <br/> [Léane Jourdan](https://cv.hal.science/leane-jourdan)
 - ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
-- ![Avatar](/img/avatar.png) <br/> [Trung Hieu Ngo]()
+- ![Avatar](/img/ngo.jpg) <br/> [Trung Hieu Ngo]()
 - ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
 - ![Avatar](/img/roux.jpg) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
 - ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
