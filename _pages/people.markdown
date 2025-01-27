@@ -22,7 +22,6 @@ permalink: people.html
 ## PhD Students
 
 {: .people}
-- ![Avatar](/img/amalvy.jpg) <br/> [Arthur Amalvy](https://cv.hal.science/aamalvy)
 - ![Avatar](/img/avatar.png) <br/> [Julien Aubert-Béduchaud](https://www.linkedin.com/in/julienaubertbeduchaud/)
 - ![Avatar](/img/avatar.png) <br/> [Ikram Belmadani](https://www.linkedin.com/in/ikram-belmadani-41556b235/)
 - ![Avatar](/img/belfathi.jpg) <br/> [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
@@ -32,7 +31,6 @@ permalink: people.html
 - ![Avatar](/img/labrak.jpg) <br/> [Yanis Labrak](https://qanastek.github.io/)
 - ![Avatar](/img/ngo.jpg) <br/> [Trung Hieu Ngo]()
 - ![Avatar](/img/pillet.jpg) <br/> [Xavier Pillet](https://www.theses.fr/s364606)
-- ![Avatar](/img/roux.jpg) <br/> [Thibault Roux](https://cv.hal.science/thibault-baneras-roux)
 - ![Avatar](/img/sebbag.jpg) <br/> [Thomas Sebbag](https://www.theses.fr/s365581)
 
 ## External collaborator
@@ -62,6 +60,8 @@ permalink: people.html
 
 ## PhD Students
 
+- Thibault Bañeras Roux (2025, [manuscrit][roux-2025])
+- Arthur Amalvy (2024, [manuscrit][amalvy-2024])
 - Mohamed Reda Marzouk (2024, [manuscrit][marzouk-2024])
 - Adrien Bazoge (2024, [manuscrit][bazoge-2024])
 - Martin Laville (2023, [manuscript][laville-2023])
@@ -112,6 +112,8 @@ permalink: people.html
 - Ygor Gallina (2024)
 - Walid Ben Romdhane (2020)
 
+[roux-2025]: https://theses.fr/s389326 "Analyse et compréhension de l’évaluation des systèmes de reconnaissance automatique de la parole : vers des métriques intégrant la perception humaine"
+[amalvy-2024]: https://theses.fr/s379155 "Traitement du langage naturel appliqué à la représentation de textes narratifs par réseaux de personnage"
 [marzouk-2024]: https://theses.fr/s391018 "Intelligibilité des réseaux de neurones récurrents par interprétation avec des machines à états finis"
 [bazoge-2024]: https://www.theses.fr/s258477 "TALMed : Traitement Automatique de la Langue Médicale"
 [laville-2023]: http://www.theses.fr/2023NANU4009 "Évaluation en extraction de lexiques bilingues à partir de corpus comparables"
