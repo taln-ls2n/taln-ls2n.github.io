@@ -1,6 +1,6 @@
 ---
 title: "Accepted BPI Project PARTAGES"
-date: 2024-20-11
+date: 2024-11-20
 layout: post
 ---
 
